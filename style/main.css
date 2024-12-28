@@ -269,12 +269,12 @@ body {
   }
 
   .idea-6 span {
-    font-size: 10rem;
+    font-size: 4rem;
   }
 
   .six .hat {
     /* top: -20px; */
-    width: 50px;
+    width: 30px;
   }
 
   .wish-hbd {
@@ -283,6 +283,12 @@ body {
 
   .wish h5 {
     font-size: 1.4rem;
+  }
+  .seven, .eight {
+    height: 60vh;
+    position: fixed;
+    top: 0;
+    width: 60vw;
   }
 
   .nine p {
